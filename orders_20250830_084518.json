@@ -1,0 +1,240 @@
+[
+  {
+    "buyer_email": "v4bGUU2ANMAARLNENRP4DGMKL4I2Y@scs2.tiktok.com",
+    "buyer_message": "",
+    "cancel_order_sla_time": 1756400399,
+    "cancel_reason": "Tự động hủy do quá thời gian lấy hàng",
+    "cancel_time": 1756403705,
+    "cancellation_initiator": "SYSTEM",
+    "collection_due_time": 1756486799,
+    "commerce_platform": "TIKTOK_SHOP",
+    "create_time": 1756185057,
+    "delivery_option_id": "7057025213938009858",
+    "delivery_option_name": "Standard shipping",
+    "delivery_type": "HOME_DELIVERY",
+    "fulfillment_priority_level": 600,
+    "fulfillment_type": "FULFILLMENT_BY_SELLER",
+    "has_updated_recipient_address": false,
+    "id": "580135613475030430",
+    "is_cod": true,
+    "is_on_hold_order": false,
+    "is_replacement_order": false,
+    "is_sample_order": false,
+    "line_items": [
+      {
+        "cancel_reason": "Tự động hủy do quá thời gian lấy hàng",
+        "cancel_user": "SYSTEM",
+        "currency": "VND",
+        "display_status": "CANCELLED",
+        "id": "580135613475161502",
+        "is_gift": false,
+        "original_price": "169000",
+        "package_id": "1169118856663303582",
+        "package_status": "CANCELLED",
+        "platform_discount": "0",
+        "product_id": "1730615733496023482",
+        "product_name": "1HORA x Tony Phùng - Combo củ sạc nhanh 20W và dây sạc Phụ Kiện Type C/Lightning dài 1M - GAR153/ GAR154/GAR163",
+        "sale_price": "99000",
+        "seller_discount": "70000",
+        "seller_sku": "GAR154-WHITE",
+        "shipping_provider_id": "6841743441349706241",
+        "shipping_provider_name": "J&T Express",
+        "sku_id": "1731133507737061818",
+        "sku_image": "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/636ed05536384cc08c48d715de003f89~tplv-o3syd03w52-origin-jpeg.jpeg?dr=15568&t=555f072d&ps=933b5bde&shp=54477afb&shcp=3c3d9ffb&idc=my&from=1413970683",
+        "sku_name": "Củ 1 cổng (USB-C ) - Trắng, Lightning",
+        "sku_type": "NORMAL",
+        "tracking_number": ""
+      }
+    ],
+    "order_type": "NORMAL",
+    "packages": [
+      {
+        "id": "1169118856663303582"
+      }
+    ],
+    "payment": {
+      "currency": "VND",
+      "original_shipping_fee": "40000",
+      "original_total_product_price": "169000",
+      "platform_discount": "0",
+      "seller_discount": "70000",
+      "shipping_fee": "0",
+      "shipping_fee_cofunded_discount": "0",
+      "shipping_fee_platform_discount": "40000",
+      "shipping_fee_seller_discount": "0",
+      "sub_total": "99000",
+      "tax": "0",
+      "total_amount": "99000"
+    },
+    "payment_method_name": "Cash on delivery",
+    "recipient_address": {
+      "address_detail": "Đô**************",
+      "address_line1": "Đô**************",
+      "address_line2": "",
+      "address_line3": "",
+      "address_line4": "",
+      "district_info": [
+        {
+          "address_level": "L0",
+          "address_level_name": "Country",
+          "address_name": "Việt Nam"
+        },
+        {
+          "address_level": "L1",
+          "address_level_name": "province",
+          "address_name": "Tỉnh Bắc Ninh"
+        },
+        {
+          "address_level": "L2",
+          "address_level_name": "district",
+          "address_name": "Thuận Thành"
+        },
+        {
+          "address_level": "L3",
+          "address_level_name": "commune",
+          "address_name": "Hồ"
+        }
+      ],
+      "first_name": "",
+      "first_name_local_script": "",
+      "full_address": "Việt Nam, Tỉnh Bắc Ninh, Thuận Thành, Hồ,Đô**************",
+      "last_name": "",
+      "last_name_local_script": "",
+      "name": "N***ễn V** N***ện",
+      "phone_number": "(+84)096*****95",
+      "postal_code": "",
+      "region_code": "VN"
+    },
+    "recommended_shipping_time": 1756227599000,
+    "rts_sla_time": 1756198800,
+    "shipping_due_time": 1756400399,
+    "shipping_provider": "J&T Express",
+    "shipping_provider_id": "6841743441349706241",
+    "shipping_type": "TIKTOK",
+    "status": "CANCELLED",
+    "tracking_number": "",
+    "tts_sla_time": 1756227599,
+    "update_time": 1756403705,
+    "user_id": "7494004876881724830",
+    "warehouse_id": "7365514467294365445"
+  },
+  {
+    "buyer_email": "v4bGUU2ANMAARLNENRP4FFOV5KK2Y@scs2.tiktok.com",
+    "buyer_message": "",
+    "cancel_order_sla_time": 1756227599,
+    "cancel_reason": "Tự động hủy do quá thời gian lấy hàng",
+    "cancel_time": 1756228773,
+    "cancellation_initiator": "SYSTEM",
+    "collection_due_time": 1756313999,
+    "commerce_platform": "TIKTOK_SHOP",
+    "create_time": 1755931405,
+    "delivery_option_id": "7057025213938009858",
+    "delivery_option_name": "Standard shipping",
+    "delivery_type": "HOME_DELIVERY",
+    "fulfillment_priority_level": 600,
+    "fulfillment_type": "FULFILLMENT_BY_SELLER",
+    "has_updated_recipient_address": false,
+    "id": "580098954030712249",
+    "is_cod": true,
+    "is_on_hold_order": false,
+    "is_replacement_order": false,
+    "is_sample_order": false,
+    "line_items": [
+      {
+        "cancel_reason": "Tự động hủy do quá thời gian lấy hàng",
+        "cancel_user": "SYSTEM",
+        "currency": "VND",
+        "display_status": "CANCELLED",
+        "id": "580098954030843321",
+        "is_gift": false,
+        "original_price": "165000",
+        "package_id": "1168899037931406777",
+        "package_status": "CANCELLED",
+        "platform_discount": "0",
+        "product_id": "1730615733496023482",
+        "product_name": "1HORA x Tony Phùng - Combo củ sạc nhanh 20W và dây sạc Phụ Kiện Type C/Lightning dài 1M - GAR153/ GAR154/GAR163",
+        "sale_price": "89000",
+        "seller_discount": "76000",
+        "seller_sku": "GAR153-WHITE",
+        "shipping_provider_id": "6841743441349706241",
+        "shipping_provider_name": "J&T Express",
+        "sku_id": "1731133507736996282",
+        "sku_image": "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/636ed05536384cc08c48d715de003f89~tplv-o3syd03w52-origin-jpeg.jpeg?dr=15568&t=555f072d&ps=933b5bde&shp=54477afb&shcp=3c3d9ffb&idc=my&from=1413970683",
+        "sku_name": "Củ 1 cổng (USB-C ) - Trắng, Type C",
+        "sku_type": "NORMAL",
+        "tracking_number": ""
+      }
+    ],
+    "order_type": "NORMAL",
+    "packages": [
+      {
+        "id": "1168899037931406777"
+      }
+    ],
+    "payment": {
+      "currency": "VND",
+      "original_shipping_fee": "30300",
+      "original_total_product_price": "165000",
+      "platform_discount": "0",
+      "seller_discount": "76000",
+      "shipping_fee": "300",
+      "shipping_fee_cofunded_discount": "0",
+      "shipping_fee_platform_discount": "30000",
+      "shipping_fee_seller_discount": "0",
+      "sub_total": "89000",
+      "tax": "0",
+      "total_amount": "89300"
+    },
+    "payment_method_name": "Cash on delivery",
+    "recipient_address": {
+      "address_detail": "Cộ*************************************************",
+      "address_line1": "Cộ*************************************************",
+      "address_line2": "",
+      "address_line3": "",
+      "address_line4": "",
+      "district_info": [
+        {
+          "address_level": "L0",
+          "address_level_name": "Country",
+          "address_name": "Việt Nam"
+        },
+        {
+          "address_level": "L1",
+          "address_level_name": "province",
+          "address_name": "Tinh Dong Nai"
+        },
+        {
+          "address_level": "L2",
+          "address_level_name": "district",
+          "address_name": "Long Thành"
+        },
+        {
+          "address_level": "L3",
+          "address_level_name": "ward",
+          "address_name": "Lo****"
+        }
+      ],
+      "first_name": "",
+      "first_name_local_script": "",
+      "full_address": "Việt Nam, Tinh Dong Nai, Long Thành, Lo****,Cộ*************************************************",
+      "last_name": "",
+      "last_name_local_script": "",
+      "name": "T*** T** N*** N*",
+      "phone_number": "(+84)097*****04",
+      "postal_code": "",
+      "region_code": "VN"
+    },
+    "recommended_shipping_time": 1755968399000,
+    "rts_sla_time": 1755939600,
+    "shipping_due_time": 1756227599,
+    "shipping_provider": "J&T Express",
+    "shipping_provider_id": "6841743441349706241",
+    "shipping_type": "TIKTOK",
+    "status": "CANCELLED",
+    "tracking_number": "",
+    "tts_sla_time": 1755968399,
+    "update_time": 1756228773,
+    "user_id": "7494067014776227257",
+    "warehouse_id": "7365514467294365445"
+  }
+]
